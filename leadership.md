@@ -6,6 +6,18 @@ Warehouse Manager
 ├── Forklift Team Leader (Đội xe nâng)
 └── Warehouse Admin / Planner
 # KPI Leadership – Warehouse Manager
+## English version
+| Category | KPI | Target | Meaning |
+|----------|------|---------|----------|
+| People Development | Training Completion Rate | 100% | Ensures operational consistency |
+| | Multi-skill Ratio | 50–70% | Workforce flexibility |
+| | Productivity per Head | +5–10% yearly | Coaching effectiveness |
+| Culture | Employee Turnover | ≤ 10–12% | Team stability |
+| | Absenteeism Rate | ≤ 2–3% | Morale indicator |
+| Team Performance | On-time Task Completion | ≥ 95% | Discipline & reliability |
+| | 5S / EHS Score | ≥ 90% | Clean, safe workplace |
+
+## Vietnamse version
 
 | Nhóm | KPI | Target gợi ý | Ý nghĩa |
 |------|-----|--------------|---------|

@@ -1,5 +1,136 @@
 # Leadership Statement – Phong Cách Lãnh Đạo Của Tôi
 
+## English version
+# Leadership Statement – Warehouse & Logistics Manager
+
+## 1. Leadership Philosophy
+I believe strong warehouse teams are built through:
+- Clear goals  
+- Transparent communication  
+- Consistent training  
+- Empowerment  
+- Positive discipline  
+
+My objective is not only to run a warehouse efficiently, but to build a stable, capable, and motivated workforce.
+
+---
+
+## 2. My Leadership Style
+
+### Coaching Leadership  
+I listen, diagnose capability gaps, and guide people toward improvement.
+
+### Data-driven Leadership  
+I make decisions based on KPIs, not assumptions.
+
+### Situational Leadership  
+I adapt my approach depending on each individual and each situation.
+
+---
+
+## 3. Core Management Principles
+- Clarity: everyone knows expectations  
+- Fairness: performance judged by data  
+- Positive discipline: coach first, correct second  
+- Recognition: celebrate even small wins  
+- Autonomy: trust people within their capability
+
+---
+
+## 4. People Development
+I focus on:
+- SOP & safety training  
+- Weekly coaching  
+- Performance evaluation  
+- Building successors  
+- Increasing multi-skill ratio
+
+---
+
+## 5. Proven Results
+- Picking accuracy improved from **95% → 99.3%**  
+- On-time shipment improved to **97%**  
+- Turnover dropped from **18% → 8%**  
+- LTIR = **0** throughout my tenure
+
+---
+
+## 6. Commitment
+I lead with integrity, accountability, and a strong focus on developing people.
+
+# Leadership Story #1 – Handling a Low Performer (STAR)
+
+## Situation
+One inbound staff consistently worked slower than others and often forgot to scan locations, causing delays.
+
+## Task
+Improve his performance without creating stress or negative morale.
+
+## Action
+- Conducted 1-on-1 coaching using the GROW model  
+- Retrained him on SOPs and scanning procedures  
+- Set weekly improvement goals  
+- Assigned a senior mentor  
+- Monitored KPIs daily with positive feedback  
+
+## Result
+- Productivity improved 32% in 4 weeks  
+- Zero scanning errors  
+- Stronger confidence and teamwork  
+- Team complaints disappeared  
+
+## Lesson
+Low performance is often caused by unclear expectations or insufficient coaching.
+# Leadership Story #2 – Driving Major Change (STAR)
+
+## Situation
+We needed a new warehouse layout to increase capacity by 20%, but the team resisted due to fear of change.
+
+## Task
+Implement the new layout smoothly while securing team buy-in.
+
+## Action
+- Explained the business reasons behind the change  
+- Presented visual layouts for clarity  
+- Collected feedback and refined the plan with operators  
+- Trained staff on the new SOP  
+- Ran a pilot test for one week  
+- Appointed “Change Champions” from within the team  
+
+## Result
+- Capacity increased by 23%  
+- Picking time reduced by 18%  
+- Zero operational disruption  
+- Team became more engaged and supportive  
+
+## Lesson
+People support what they help create. Inclusion drives smoother change.
+# Leadership Story #3 – Building Successors (STAR)
+
+## Situation
+Outbound operations relied too heavily on a single Supervisor, causing performance gaps whenever he was absent.
+
+## Task
+Develop a successor pipeline to ensure operational continuity.
+
+## Action
+- Identified three potential candidates  
+- Created an 8-week development plan  
+- Gradually increased their responsibilities  
+- Coached them weekly  
+- Evaluated based on productivity, accuracy, and leadership behavior  
+
+## Result
+- All three reached “acting supervisor” capability  
+- No performance drop when Supervisor took leave  
+- Productivity increased 7%  
+- Team morale and stability improved  
+
+## Lesson
+Leadership is not doing everything yourself—it is developing people who can lead with you.
+
+## Vietnamse version
+
 ## 1. Triết lý lãnh đạo
 Tôi tin rằng một đội kho mạnh không được tạo ra bằng mệnh lệnh, mà bằng:
 - Sự rõ ràng trong mục tiêu

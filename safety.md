@@ -1,4 +1,17 @@
 # KPI An Toàn – Warehouse Rawlplug
+## Englist version
+| KPI | Description | Target | Notes |
+|-----|-------------|---------|------|
+| LTIR (Lost Time Injury Rate) | Injuries causing time off | 0 | Fundamental corporate KPI |
+| Near Miss Reporting | Reports before accidents occur | 10–20/month | Builds safety culture |
+| Safety Audit Score | EHS/5S Audit | ≥ 90–95% | Weekly/Monthly checks |
+| Forklift Violations | Speeding, unsafe operations | ≤ 1–2/month | Strict monitoring |
+| Racking Inspection Compliance | Weekly & quarterly checks | 100% | Prevent collapse risks |
+| PPE Compliance | Use of safety equipment | ≥ 98–100% | Gloves, shoes, helmet |
+| Training Completion Rate | Safety training coverage | 100% | Mandatory for all staff |
+
+
+## Vietnamese version
 
 | KPI | Mô tả | Target gợi ý | Ghi chú |
 |-----|-------|---------------|----------|

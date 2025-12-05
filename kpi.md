@@ -1,4 +1,21 @@
-# KPI Chính – Warehouse (Rawlplug Việt Nam)
+# KPI Chính – Warehouse
+
+## English version
+| KPI Category | KPI | Formula / Measurement | Target | Notes |
+|--------------|------|----------------------|--------|--------|
+| Inventory | Inventory Accuracy | (System vs. Physical Match) | ≥ 98–99% | Critical due to many small SKUs |
+| | Inventory Turnover | Sales / Avg. Inventory | 4–6 turns/year | Improve cash flow & reduce deadstock |
+| | Shrinkage Rate | Loss / Total Inventory | ≤ 0.2–0.5% | Prevent loss & misplacements |
+| Order Quality | SKU-to-Order Accuracy | Correct SKU lines / Total lines | ≥ 99% | Avoid customer complaints |
+| | Perfect Order Rate | Right item – right qty – no damage | ≥ 99% | Key for brand reliability |
+| Service | On-time Shipment | Shipments on time | ≥ 95–98% | Reflects warehouse + logistics efficiency |
+| Productivity | Throughput | Lines/Pallets processed/day | Improve YoY | Shows capacity handling |
+| | Labor Productivity | Lines/hour/person | 120–200 | Depends on SKU nature |
+| Costs | Space Utilization | Used space / Total space | 70–85% | Avoid overcrowding |
+| | Cost per Order | Total WH cost / # orders | ↓ 5–10% yearly | Tied to business profitability |
+
+
+## Vietnamese version
 
 1. Inventory Accuracy (Độ chính xác tồn kho)  
 2. Inventory Turnover (Vòng quay tồn kho)  
